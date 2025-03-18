@@ -1,54 +1,53 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Project README</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <div class="container">
-        <header>
-            <h1>Project Name</h1>
-            <p class="tagline">A short description of what this project does</p>
-        </header>
+# 🔴 Lost & Found System  
 
-        <section class="intro">
-            <h2>Introduction</h2>
-            <p>This project aims to solve XYZ problem by providing ABC solution. It's built with XYZ technologies and can be easily set up on your local machine.</p>
-        </section>
+A system to help users report and find lost items *easily*.  
 
-        <section class="installation">
-            <h2>Installation</h2>
-            <p>Follow these steps to set up the project locally:</p>
-            <ul>
-                <li>Clone the repository: <code>git clone https://github.com/yourusername/projectname.git</code></li>
-                <li>Navigate to the project folder: <code>cd projectname</code></li>
-                <li>Install dependencies: <code>npm install</code></li>
-                <li>Run the project: <code>npm start</code></li>
-            </ul>
-        </section>
+## 🚀 Features  
+✅ Report lost & found items  
+✅ Search & filter items  
+✅ User authentication  
+✅ Real-time updates  
+✅ Admin panel for moderation  
 
-        <section class="usage">
-            <h2>Usage</h2>
-            <p>After setting up the project, you can use it like this:</p>
-            <code>npm run example</code>
-        </section>
+## 👥 Meet Our Team  
+- 🖥 *YB* - Frontend Developer  
+- 💾 *Member 2* - Backend Developer  
+- 🎨 *Member 3* - UI/UX Designer  
+- 🗄 *Member 4* - Database Manager  
+- 📌 *Member 5* - Project Coordinator  
 
-        <section class="contributing">
-            <h2>Contributing</h2>
-            <p>If you'd like to contribute to this project, follow these steps:</p>
-            <ol>
-                <li>Fork the repository</li>
-                <li>Create a new branch</li>
-                <li>Make your changes</li>
-                <li>Submit a pull request</li>
-            </ol>
-        </section>
+---
 
-        <footer>
-            <p>© 2025 Project Name. All rights reserved.</p>
-        </footer>
-    </div>
-</body>
-</html>
+## 🖥 Demo Code (HTML & CSS)  
+<details>
+  <summary>Click to View Code</summary>
+
+  ```html
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Lost & Found System</title>
+  </head>
+  <body style="font-family: Arial, sans-serif; text-align: center; padding: 20px; background-color: #f8f9fa;">
+      <h1 style="color: #007bff;">📌 Lost & Found System</h1>
+      <p>A system to help users report and find lost items easily.</p>
+
+      <h2>🚀 Features</h2>
+      <ul style="text-align: left; display: inline-block;">
+          <li>✅ Report lost & found items</li>
+          <li>✅ Search & filter items</li>
+          <li>✅ User authentication</li>
+          <li>✅ Real-time updates</li>
+          <li>✅ Admin panel for moderation</li>
+      </ul>
+
+      <h2>👥 Meet Our Team</h2>
+      <div style="background: #007bff; color: white; padding: 10px; margin: 5px; display: inline-block;">🖥 YB - Frontend Developer</div>
+      <div style="background: #007bff; color: white; padding: 10px; margin: 5px; display: inline-block;">💾 Member 2 - Backend Developer</div>
+      <div style="background: #007bff; color: white; padding: 10px; margin: 5px; display: inline-block;">🎨 Member 3 - UI/UX Designer</div>
+      <div style="background: #007bff; color: white; padding: 10px; margin: 5px; display: inline-block;">🗄 Member 4 - Database Manager</div>
+      <div style="background: #007bff; color: white; padding: 10px; margin: 5px; display: inline-block;">📌 Member 5 - Project Coordinator</div>
+  </body>
+  </html>
